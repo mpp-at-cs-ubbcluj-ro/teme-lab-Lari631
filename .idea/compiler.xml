@@ -5,6 +5,9 @@
       <module name="ConsolePrint" target="22" />
       <module name="ConsolePrint.main" target="22" />
       <module name="ConsolePrint.test" target="22" />
+      <module name="StartGradle" target="22" />
+      <module name="StartGradle.main" target="22" />
+      <module name="StartGradle.test" target="22" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -3,7 +3,6 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_22" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/ConsolePrint">
-      <sourceFolder url="file://$MODULE_DIR$/ConsolePrint" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/ConsolePrint/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/ConsolePrint/build" />
     </content>
