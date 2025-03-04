@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConsolePrint.iml" filepath="$PROJECT_DIR$/ConsolePrint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsolePrint.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsolePrint.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ConsolePrint.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ConsolePrint.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StartGradle.iml" filepath="$PROJECT_DIR$/StartGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/teme-lab-Lari631.iml" filepath="$PROJECT_DIR$/.idea/teme-lab-Lari631.iml" />
+    </modules>
+  </component>
+</project>
